@@ -2,3 +2,7 @@
 
 On page 54, let's assume that the first rune is A. Then there's an 8-rune word. If we guess the word we can calculate the shift values 
 and check if they match any famous sequences.
+
+Write a lot about the symbols.
+
+Create a separate folder for the hash.
